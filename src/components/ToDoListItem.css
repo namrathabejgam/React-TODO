@@ -1,0 +1,8 @@
+.ToDoListItem {
+  font-size: 20px;
+  height: 30px;
+}
+.ToDoListItem:hover {
+  background: #f3f2f2;
+  cursor: pointer;
+}
